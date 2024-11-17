@@ -1,0 +1,15 @@
+D:\Dotnet waorkspace\webRequest\webRequest\bin\Debug\net6.0\webRequest.exe
+D:\Dotnet waorkspace\webRequest\webRequest\bin\Debug\net6.0\webRequest.deps.json
+D:\Dotnet waorkspace\webRequest\webRequest\bin\Debug\net6.0\webRequest.runtimeconfig.json
+D:\Dotnet waorkspace\webRequest\webRequest\bin\Debug\net6.0\webRequest.dll
+D:\Dotnet waorkspace\webRequest\webRequest\bin\Debug\net6.0\webRequest.pdb
+D:\Dotnet waorkspace\webRequest\webRequest\obj\Debug\net6.0\webRequest.csproj.AssemblyReference.cache
+D:\Dotnet waorkspace\webRequest\webRequest\obj\Debug\net6.0\webRequest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet waorkspace\webRequest\webRequest\obj\Debug\net6.0\webRequest.AssemblyInfoInputs.cache
+D:\Dotnet waorkspace\webRequest\webRequest\obj\Debug\net6.0\webRequest.AssemblyInfo.cs
+D:\Dotnet waorkspace\webRequest\webRequest\obj\Debug\net6.0\webRequest.csproj.CoreCompileInputs.cache
+D:\Dotnet waorkspace\webRequest\webRequest\obj\Debug\net6.0\webRequest.dll
+D:\Dotnet waorkspace\webRequest\webRequest\obj\Debug\net6.0\refint\webRequest.dll
+D:\Dotnet waorkspace\webRequest\webRequest\obj\Debug\net6.0\webRequest.pdb
+D:\Dotnet waorkspace\webRequest\webRequest\obj\Debug\net6.0\webRequest.genruntimeconfig.cache
+D:\Dotnet waorkspace\webRequest\webRequest\obj\Debug\net6.0\ref\webRequest.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet waorkspace\\FirstWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|d:\\dotnet waorkspace\\firstwebapi\\firstwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|d:\\dotnet waorkspace\\firstwebapi\\firstwebapi\\controllers\\studentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\controllers\\studentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|d:\\dotnet waorkspace\\firstwebapi\\firstwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|d:\\dotnet waorkspace\\firstwebapi\\firstwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|d:\\dotnet waorkspace\\firstwebapi\\firstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|d:\\dotnet waorkspace\\firstwebapi\\firstwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|d:\\dotnet waorkspace\\firstwebapi\\firstwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC2880A-5759-4FA1-9B3B-DA9E8FF3A915}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "FirstWebApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "FirstWebApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:41:01.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "FirstWebApi\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "FirstWebApi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:37:15.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FirstWebApi\\appsettings.Development.json",
+              "ToolTip": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "FirstWebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T05:36:31.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FirstWebApi\\WeatherForecast.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "FirstWebApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:36:29.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentdetailsController.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\Controllers\\studentdetailsController.cs",
+              "RelativeDocumentMoniker": "FirstWebApi\\Controllers\\studentdetailsController.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\Controllers\\studentdetailsController.cs",
+              "RelativeToolTip": "FirstWebApi\\Controllers\\studentdetailsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:20:09.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\Models\\student.cs",
+              "RelativeDocumentMoniker": "FirstWebApi\\Models\\student.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\Models\\student.cs",
+              "RelativeToolTip": "FirstWebApi\\Models\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:17:42.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "FirstWebApi\\Program.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\FirstWebApi\\FirstWebApi\\Program.cs",
+              "RelativeToolTip": "FirstWebApi\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:34:26.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

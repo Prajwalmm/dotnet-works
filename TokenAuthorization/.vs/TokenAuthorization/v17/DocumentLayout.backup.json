@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet waorkspace\\TokenAuthorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4F3CE7-FC13-4531-90A4-A5DD9B32826F}|TokenAuthorization\\TokenAuthorization.csproj|d:\\dotnet waorkspace\\tokenauthorization\\tokenauthorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4F3CE7-FC13-4531-90A4-A5DD9B32826F}|TokenAuthorization\\TokenAuthorization.csproj|solutionrelative:tokenauthorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4F3CE7-FC13-4531-90A4-A5DD9B32826F}|TokenAuthorization\\TokenAuthorization.csproj|d:\\dotnet waorkspace\\tokenauthorization\\tokenauthorization\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4F3CE7-FC13-4531-90A4-A5DD9B32826F}|TokenAuthorization\\TokenAuthorization.csproj|solutionrelative:tokenauthorization\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4F3CE7-FC13-4531-90A4-A5DD9B32826F}|TokenAuthorization\\TokenAuthorization.csproj|d:\\dotnet waorkspace\\tokenauthorization\\tokenauthorization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF4F3CE7-FC13-4531-90A4-A5DD9B32826F}|TokenAuthorization\\TokenAuthorization.csproj|solutionrelative:tokenauthorization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4F3CE7-FC13-4531-90A4-A5DD9B32826F}|TokenAuthorization\\TokenAuthorization.csproj|d:\\dotnet waorkspace\\tokenauthorization\\tokenauthorization\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4F3CE7-FC13-4531-90A4-A5DD9B32826F}|TokenAuthorization\\TokenAuthorization.csproj|solutionrelative:tokenauthorization\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4F3CE7-FC13-4531-90A4-A5DD9B32826F}|TokenAuthorization\\TokenAuthorization.csproj|d:\\dotnet waorkspace\\tokenauthorization\\tokenauthorization\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4F3CE7-FC13-4531-90A4-A5DD9B32826F}|TokenAuthorization\\TokenAuthorization.csproj|solutionrelative:tokenauthorization\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\TokenAuthorization\\TokenAuthorization\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "TokenAuthorization\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\TokenAuthorization\\TokenAuthorization\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "TokenAuthorization\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:01:47.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\TokenAuthorization\\TokenAuthorization\\Program.cs",
+              "RelativeDocumentMoniker": "TokenAuthorization\\Program.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\TokenAuthorization\\TokenAuthorization\\Program.cs",
+              "RelativeToolTip": "TokenAuthorization\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:58:21.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\TokenAuthorization\\TokenAuthorization\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TokenAuthorization\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\TokenAuthorization\\TokenAuthorization\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TokenAuthorization\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:52:06.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jwtsettings.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\TokenAuthorization\\TokenAuthorization\\Models\\Jwtsettings.cs",
+              "RelativeDocumentMoniker": "TokenAuthorization\\Models\\Jwtsettings.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\TokenAuthorization\\TokenAuthorization\\Models\\Jwtsettings.cs",
+              "RelativeToolTip": "TokenAuthorization\\Models\\Jwtsettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:50:44.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\TokenAuthorization\\TokenAuthorization\\appsettings.json",
+              "RelativeDocumentMoniker": "TokenAuthorization\\appsettings.json",
+              "ToolTip": "D:\\Dotnet waorkspace\\TokenAuthorization\\TokenAuthorization\\appsettings.json",
+              "RelativeToolTip": "TokenAuthorization\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T11:49:17.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

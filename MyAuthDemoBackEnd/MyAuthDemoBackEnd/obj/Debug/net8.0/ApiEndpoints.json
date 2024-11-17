@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MyAuthDemoBackEnd.Controllers.CheckController",
+    "Method": "PostLogin",
+    "RelativePath": "api/Check",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Details",
+        "Type": "MyAuthDemoBackEnd.Services.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

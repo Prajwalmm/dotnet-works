@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet waorkspace\\Project 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|d:\\dotnet waorkspace\\project 1\\couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|d:\\dotnet waorkspace\\project 1\\couponapi\\models\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\models\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|d:\\dotnet waorkspace\\project 1\\couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|d:\\dotnet waorkspace\\project 1\\couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|d:\\dotnet waorkspace\\project 1\\couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|d:\\dotnet waorkspace\\project 1\\couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BAC71A-F066-4701-A280-A10A5D3C904B}|CouponAPI\\CouponAPI.csproj|solutionrelative:couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\service\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\service\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\models\\dto\\registerationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\dto\\registerationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|d:\\dotnet waorkspace\\project 1\\authapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3066F37-FB96-4594-A044-6543AEB494C5}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CouponAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:16:58.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeToolTip": "CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:27:41.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Models\\Coupon.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\Models\\Coupon.cs",
+              "RelativeToolTip": "CouponAPI\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:27:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\Models\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Models\\MappingProfile.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\Models\\MappingProfile.cs",
+              "RelativeToolTip": "CouponAPI\\Models\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:24:42.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\MappingConfig.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\MappingConfig.cs",
+              "RelativeToolTip": "CouponAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:24:06.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CouponAPI\\Program.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\CouponAPI\\Program.cs",
+              "RelativeToolTip": "CouponAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:23:40.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\Dto\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Dto\\LoginResponseDto.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\Dto\\LoginResponseDto.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Dto\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:05:55.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:11:15.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:10:51.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Service\\AuthService.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "AuthAPI\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:10:03.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Service\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Service\\IService\\IAuthService.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Service\\IService\\IAuthService.cs",
+              "RelativeToolTip": "AuthAPI\\Service\\IService\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:09:27.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthAPI\\appsettings.json",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\appsettings.json",
+              "RelativeToolTip": "AuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T14:08:49.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:06:54.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterationRequestDto.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\Dto\\RegisterationRequestDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Dto\\RegisterationRequestDto.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\Dto\\RegisterationRequestDto.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Dto\\RegisterationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:06:30.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\Dto\\UserDto.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:06:04.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:05:17.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Program.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Program.cs",
+              "RelativeToolTip": "AuthAPI\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwBsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:01:28.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:01:12.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:00:53.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthApiController.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Controllers\\AuthApiController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\AuthApiController.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\Project 1\\AuthAPI\\Controllers\\AuthApiController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\AuthApiController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:00:44.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

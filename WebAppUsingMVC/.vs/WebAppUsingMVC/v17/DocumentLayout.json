@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet waorkspace\\WebAppUsingMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B8F19-2120-48F8-A94D-67E92BA21D24}|WebAppUsingMVC\\WebAppUsingMVC.csproj|d:\\dotnet waorkspace\\webappusingmvc\\webappusingmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C5B8F19-2120-48F8-A94D-67E92BA21D24}|WebAppUsingMVC\\WebAppUsingMVC.csproj|solutionrelative:webappusingmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B8F19-2120-48F8-A94D-67E92BA21D24}|WebAppUsingMVC\\WebAppUsingMVC.csproj|d:\\dotnet waorkspace\\webappusingmvc\\webappusingmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C5B8F19-2120-48F8-A94D-67E92BA21D24}|WebAppUsingMVC\\WebAppUsingMVC.csproj|solutionrelative:webappusingmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B8F19-2120-48F8-A94D-67E92BA21D24}|WebAppUsingMVC\\WebAppUsingMVC.csproj|d:\\dotnet waorkspace\\webappusingmvc\\webappusingmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C5B8F19-2120-48F8-A94D-67E92BA21D24}|WebAppUsingMVC\\WebAppUsingMVC.csproj|solutionrelative:webappusingmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B8F19-2120-48F8-A94D-67E92BA21D24}|WebAppUsingMVC\\WebAppUsingMVC.csproj|d:\\dotnet waorkspace\\webappusingmvc\\webappusingmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5B8F19-2120-48F8-A94D-67E92BA21D24}|WebAppUsingMVC\\WebAppUsingMVC.csproj|solutionrelative:webappusingmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B8F19-2120-48F8-A94D-67E92BA21D24}|WebAppUsingMVC\\WebAppUsingMVC.csproj|d:\\dotnet waorkspace\\webappusingmvc\\webappusingmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5B8F19-2120-48F8-A94D-67E92BA21D24}|WebAppUsingMVC\\WebAppUsingMVC.csproj|solutionrelative:webappusingmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\WebAppUsingMVC\\WebAppUsingMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppUsingMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dotnet waorkspace\\WebAppUsingMVC\\WebAppUsingMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppUsingMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T16:20:22.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\WebAppUsingMVC\\WebAppUsingMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebAppUsingMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dotnet waorkspace\\WebAppUsingMVC\\WebAppUsingMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebAppUsingMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T16:20:02.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\WebAppUsingMVC\\WebAppUsingMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebAppUsingMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Dotnet waorkspace\\WebAppUsingMVC\\WebAppUsingMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebAppUsingMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T16:19:39.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\WebAppUsingMVC\\WebAppUsingMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppUsingMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\WebAppUsingMVC\\WebAppUsingMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppUsingMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:18:14.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\WebAppUsingMVC\\WebAppUsingMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebAppUsingMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\WebAppUsingMVC\\WebAppUsingMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebAppUsingMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:17:57.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

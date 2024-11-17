@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiUsingInMemory", "WebApiUsingInMemory\WebApiUsingInMemory.csproj", "{488921DB-B0A9-4335-9F0E-66F2A1A0ED84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488921DB-B0A9-4335-9F0E-66F2A1A0ED84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488921DB-B0A9-4335-9F0E-66F2A1A0ED84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488921DB-B0A9-4335-9F0E-66F2A1A0ED84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488921DB-B0A9-4335-9F0E-66F2A1A0ED84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67FD99F5-05A8-4528-A8FB-C829849CB33E}
+	EndGlobalSection
+EndGlobal

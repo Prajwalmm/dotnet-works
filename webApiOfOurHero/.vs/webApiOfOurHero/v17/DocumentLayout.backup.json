@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet waorkspace\\webApiOfOurHero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|d:\\dotnet waorkspace\\webapiofourhero\\webapiofourhero\\migrations\\20241014060623_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|solutionrelative:webapiofourhero\\migrations\\20241014060623_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|d:\\dotnet waorkspace\\webapiofourhero\\webapiofourhero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|solutionrelative:webapiofourhero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|d:\\dotnet waorkspace\\webapiofourhero\\webapiofourhero\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|solutionrelative:webapiofourhero\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|d:\\dotnet waorkspace\\webapiofourhero\\webapiofourhero\\models\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|solutionrelative:webapiofourhero\\models\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|d:\\dotnet waorkspace\\webapiofourhero\\webapiofourhero\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|solutionrelative:webapiofourhero\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|d:\\dotnet waorkspace\\webapiofourhero\\webapiofourhero\\controllers\\ourherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|solutionrelative:webapiofourhero\\controllers\\ourherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|d:\\dotnet waorkspace\\webapiofourhero\\webapiofourhero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|solutionrelative:webapiofourhero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|d:\\dotnet waorkspace\\webapiofourhero\\webapiofourhero\\models\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|solutionrelative:webapiofourhero\\models\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|d:\\dotnet waorkspace\\webapiofourhero\\webapiofourhero\\entity\\ourherodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A45048-4570-4655-AB6E-E4C49C138409}|webApiOfOurHero\\webApiOfOurHero.csproj|solutionrelative:webapiofourhero\\entity\\ourherodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241014060623_firstmigration.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Migrations\\20241014060623_firstmigration.cs",
+              "RelativeDocumentMoniker": "webApiOfOurHero\\Migrations\\20241014060623_firstmigration.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Migrations\\20241014060623_firstmigration.cs",
+              "RelativeToolTip": "webApiOfOurHero\\Migrations\\20241014060623_firstmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:06:23.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\appsettings.json",
+              "RelativeDocumentMoniker": "webApiOfOurHero\\appsettings.json",
+              "ToolTip": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\appsettings.json",
+              "RelativeToolTip": "webApiOfOurHero\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T05:37:10.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUpdateOurHero.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Models\\AddUpdateOurHero.cs",
+              "RelativeDocumentMoniker": "webApiOfOurHero\\Models\\AddUpdateOurHero.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Models\\AddUpdateOurHero.cs",
+              "RelativeToolTip": "webApiOfOurHero\\Models\\AddUpdateOurHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:30:51.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OurHeroController.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Controllers\\OurHeroController.cs",
+              "RelativeDocumentMoniker": "webApiOfOurHero\\Controllers\\OurHeroController.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Controllers\\OurHeroController.cs",
+              "RelativeToolTip": "webApiOfOurHero\\Controllers\\OurHeroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:17:36.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OurHeroService.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Services\\OurHeroService.cs",
+              "RelativeDocumentMoniker": "webApiOfOurHero\\Services\\OurHeroService.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Services\\OurHeroService.cs",
+              "RelativeToolTip": "webApiOfOurHero\\Services\\OurHeroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:14:26.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOurHeroService.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Services\\IOurHeroService.cs",
+              "RelativeDocumentMoniker": "webApiOfOurHero\\Services\\IOurHeroService.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Services\\IOurHeroService.cs",
+              "RelativeToolTip": "webApiOfOurHero\\Services\\IOurHeroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:14:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Program.cs",
+              "RelativeDocumentMoniker": "webApiOfOurHero\\Program.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Program.cs",
+              "RelativeToolTip": "webApiOfOurHero\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:10:33.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OurHeroDBContext.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Entity\\OurHeroDBContext.cs",
+              "RelativeDocumentMoniker": "webApiOfOurHero\\Entity\\OurHeroDBContext.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Entity\\OurHeroDBContext.cs",
+              "RelativeToolTip": "webApiOfOurHero\\Entity\\OurHeroDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:05:19.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OurHero.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Models\\OurHero.cs",
+              "RelativeDocumentMoniker": "webApiOfOurHero\\Models\\OurHero.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webApiOfOurHero\\webApiOfOurHero\\Models\\OurHero.cs",
+              "RelativeToolTip": "webApiOfOurHero\\Models\\OurHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:26:30.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

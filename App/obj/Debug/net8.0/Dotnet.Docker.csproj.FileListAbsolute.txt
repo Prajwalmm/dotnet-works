@@ -1,0 +1,14 @@
+D:\Dotnet waorkspace\App\bin\Debug\net8.0\Dotnet.Docker.exe
+D:\Dotnet waorkspace\App\bin\Debug\net8.0\Dotnet.Docker.deps.json
+D:\Dotnet waorkspace\App\bin\Debug\net8.0\Dotnet.Docker.runtimeconfig.json
+D:\Dotnet waorkspace\App\bin\Debug\net8.0\Dotnet.Docker.dll
+D:\Dotnet waorkspace\App\bin\Debug\net8.0\Dotnet.Docker.pdb
+D:\Dotnet waorkspace\App\obj\Debug\net8.0\Dotnet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet waorkspace\App\obj\Debug\net8.0\Dotnet.Docker.AssemblyInfoInputs.cache
+D:\Dotnet waorkspace\App\obj\Debug\net8.0\Dotnet.Docker.AssemblyInfo.cs
+D:\Dotnet waorkspace\App\obj\Debug\net8.0\Dotnet.Docker.csproj.CoreCompileInputs.cache
+D:\Dotnet waorkspace\App\obj\Debug\net8.0\Dotnet.Docker.dll
+D:\Dotnet waorkspace\App\obj\Debug\net8.0\refint\Dotnet.Docker.dll
+D:\Dotnet waorkspace\App\obj\Debug\net8.0\Dotnet.Docker.pdb
+D:\Dotnet waorkspace\App\obj\Debug\net8.0\Dotnet.Docker.genruntimeconfig.cache
+D:\Dotnet waorkspace\App\obj\Debug\net8.0\ref\Dotnet.Docker.dll

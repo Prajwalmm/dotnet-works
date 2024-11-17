@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet waorkspace\\webapiAndServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|d:\\dotnet waorkspace\\webapiandservices\\webapiandservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|solutionrelative:webapiandservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|d:\\dotnet waorkspace\\webapiandservices\\webapiandservices\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|solutionrelative:webapiandservices\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|d:\\dotnet waorkspace\\webapiandservices\\webapiandservices\\models\\addupdateourpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|solutionrelative:webapiandservices\\models\\addupdateourpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|d:\\dotnet waorkspace\\webapiandservices\\webapiandservices\\services\\ourpeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|solutionrelative:webapiandservices\\services\\ourpeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|d:\\dotnet waorkspace\\webapiandservices\\webapiandservices\\services\\iourpeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|solutionrelative:webapiandservices\\services\\iourpeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|d:\\dotnet waorkspace\\webapiandservices\\webapiandservices\\models\\ourpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC21D4-71BE-4E14-B43F-DB5378980ED0}|webapiAndServices\\webapiAndServices.csproj|solutionrelative:webapiandservices\\models\\ourpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Program.cs",
+              "RelativeDocumentMoniker": "webapiAndServices\\Program.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Program.cs",
+              "RelativeToolTip": "webapiAndServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:15:24.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OurPeopleService.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Services\\OurPeopleService.cs",
+              "RelativeDocumentMoniker": "webapiAndServices\\Services\\OurPeopleService.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Services\\OurPeopleService.cs",
+              "RelativeToolTip": "webapiAndServices\\Services\\OurPeopleService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:07:34.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOurPeopleService.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Services\\IOurPeopleService.cs",
+              "RelativeDocumentMoniker": "webapiAndServices\\Services\\IOurPeopleService.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Services\\IOurPeopleService.cs",
+              "RelativeToolTip": "webapiAndServices\\Services\\IOurPeopleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:06:45.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddUpdateOurPeople.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Models\\AddUpdateOurPeople.cs",
+              "RelativeDocumentMoniker": "webapiAndServices\\Models\\AddUpdateOurPeople.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Models\\AddUpdateOurPeople.cs",
+              "RelativeToolTip": "webapiAndServices\\Models\\AddUpdateOurPeople.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:05:15.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ourPeople.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Models\\ourPeople.cs",
+              "RelativeDocumentMoniker": "webapiAndServices\\Models\\ourPeople.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Models\\ourPeople.cs",
+              "RelativeToolTip": "webapiAndServices\\Models\\ourPeople.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:03:44.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "webapiAndServices\\Controllers\\PeopleController.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\webapiAndServices\\webapiAndServices\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "webapiAndServices\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:01:11.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet waorkspace\\NearYou\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|d:\\dotnet waorkspace\\nearyou\\seller.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|solutionrelative:seller.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|d:\\dotnet waorkspace\\nearyou\\seller.api\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|solutionrelative:seller.api\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|d:\\dotnet waorkspace\\nearyou\\seller.api\\repository\\shoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|solutionrelative:seller.api\\repository\\shoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|d:\\dotnet waorkspace\\nearyou\\seller.api\\repository\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|solutionrelative:seller.api\\repository\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|d:\\dotnet waorkspace\\nearyou\\seller.api\\repository\\ishoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|solutionrelative:seller.api\\repository\\ishoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|d:\\dotnet waorkspace\\nearyou\\seller.api\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|solutionrelative:seller.api\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|d:\\dotnet waorkspace\\nearyou\\seller.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5F33CB6-B12F-4F4A-B35C-FC57957B42AC}|Seller.Api\\Seller.Api.csproj|solutionrelative:seller.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "Seller.Api\\Models\\Shop.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Models\\Shop.cs",
+              "RelativeToolTip": "Seller.Api\\Models\\Shop.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:40:28.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Seller.Api\\Program.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Program.cs",
+              "RelativeToolTip": "Seller.Api\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:30:27.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SellerRepository.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Repository\\SellerRepository.cs",
+              "RelativeDocumentMoniker": "Seller.Api\\Repository\\SellerRepository.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Repository\\SellerRepository.cs",
+              "RelativeToolTip": "Seller.Api\\Repository\\SellerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:26:56.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Seller.Api\\appsettings.json",
+              "ToolTip": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\appsettings.json",
+              "RelativeToolTip": "Seller.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T08:19:07.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "shopController.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Controllers\\shopController.cs",
+              "RelativeDocumentMoniker": "Seller.Api\\Controllers\\shopController.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Controllers\\shopController.cs",
+              "RelativeToolTip": "Seller.Api\\Controllers\\shopController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAIwHoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:15:37.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shopRepository.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Repository\\shopRepository.cs",
+              "RelativeDocumentMoniker": "Seller.Api\\Repository\\shopRepository.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Repository\\shopRepository.cs",
+              "RelativeToolTip": "Seller.Api\\Repository\\shopRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv1MAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:15:18.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShopRepository.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Repository\\IShopRepository.cs",
+              "RelativeDocumentMoniker": "Seller.Api\\Repository\\IShopRepository.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\NearYou\\Seller.Api\\Repository\\IShopRepository.cs",
+              "RelativeToolTip": "Seller.Api\\Repository\\IShopRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:15:12.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

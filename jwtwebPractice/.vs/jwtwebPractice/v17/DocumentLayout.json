@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet waorkspace\\jwtwebPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01C84652-4A5D-4EFF-8AD7-A8DC5092EA75}|jwtwebPractice\\jwtwebPractice.csproj|d:\\dotnet waorkspace\\jwtwebpractice\\jwtwebpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C84652-4A5D-4EFF-8AD7-A8DC5092EA75}|jwtwebPractice\\jwtwebPractice.csproj|solutionrelative:jwtwebpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C84652-4A5D-4EFF-8AD7-A8DC5092EA75}|jwtwebPractice\\jwtwebPractice.csproj|d:\\dotnet waorkspace\\jwtwebpractice\\jwtwebpractice\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C84652-4A5D-4EFF-8AD7-A8DC5092EA75}|jwtwebPractice\\jwtwebPractice.csproj|solutionrelative:jwtwebpractice\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\jwtwebPractice\\jwtwebPractice\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "jwtwebPractice\\JwtSettings.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\jwtwebPractice\\jwtwebPractice\\JwtSettings.cs",
+              "RelativeToolTip": "jwtwebPractice\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:54:51.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet waorkspace\\jwtwebPractice\\jwtwebPractice\\Program.cs",
+              "RelativeDocumentMoniker": "jwtwebPractice\\Program.cs",
+              "ToolTip": "D:\\Dotnet waorkspace\\jwtwebPractice\\jwtwebPractice\\Program.cs*",
+              "RelativeToolTip": "jwtwebPractice\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:53:46.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
